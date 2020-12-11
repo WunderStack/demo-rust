@@ -1,4 +1,6 @@
-# Rust Actix-Web [WunderPreview](https://wunderpreview.com) example
+# Rust [WunderPreview](https://wunderpreview.com) example
+
+Base on the [Actix Web](https://actix.rs/) web framework for Rust
 
 ## How to use this example with WunderPreview
 - Fork this repository
